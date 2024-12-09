@@ -1,17 +1,21 @@
-### Hi there 👋
+## Hi there 👋
 
-- ✨ Software engineer / architect
-  - 🌱 3D graphics and rendering
-  - 🌱 automotive domain
-  - 🌱 tooling
+- 🔭 Currently learning Rust
+- 👯 I’m looking to collaborate (mmo-)RPG framworks & games
+
+### About me
+
+- ✨ (Embedded-) Software engineer / architect
+  - 🌱 loves 3D graphics and rendering
+  - 🌱 working in the automotive domain
+  - 🌱 loves intuitive tooling
 - ⚡ Clean code evangelist
 - 🔭 languages of choice
-  - c++
-  - c#
+  - C++
+  - C#
   - Java
-  - Python (3)
-- 💬 Currently learning
-  - Rust
+  - Python 3
+  - TypeScript
 - 🤔 If stuff is repetitive or boring - write a script for it!
 
 <!--
