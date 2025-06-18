@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 Currently learning Rust
-- 👯 I’m looking to collaborate (mmo-)RPG framworks & games
+- building software. with passion.
+- code is poetry.
 
 ### About me
 
@@ -16,7 +16,6 @@
   - Java
   - Python 3
   - TypeScript
-- 🤔 If stuff is repetitive or boring - write a script for it!
 
 <!--
 **doosuu/doosuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
